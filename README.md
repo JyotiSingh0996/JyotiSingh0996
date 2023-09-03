@@ -4,7 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JyotiSingh0996/Projects-of-data-science-by-Jyoti-Singh.git](https://github.com/JyotiSingh0996/Projects-of-data-science-by-Jyoti-Singh.git)
 
-- 📫 How to reach me **js3617095@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
